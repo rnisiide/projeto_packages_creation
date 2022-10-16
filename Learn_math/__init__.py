@@ -1,2 +1,2 @@
 
-from .Pacote_Calculadora import *
+from .Learn_math import *

@@ -1,34 +1,30 @@
-# Pacote_Calculadora
+# Learn math
 
-Descrição. 
-The pacote Pacote_calculadora é usado para:
-	 operacoes:
-		funções aritimeticas:
-			-soma
-			-subtracao
-			-multiplicacao
-			-divisao	
+Description. 
+This package will teach how basic math operations work. 
+It will show the sum, subtraction, multiplication and division of two numbers. 
 
 ## Instalação
 
 Use o package manager [pip](https://pip.pypa.io/en/stable/) para instalar Pacote_Calculadora
 
 ```bash
-pip install Pacote_Calculadora
+pip install Learn_math
 ```
 
 ## Uso
 
 ```python
-from Pacote_Calculadora import operacoes
-operacoes.soma() para somar os valores
-operacoes.subtracao() para subtrair os valores
-operacoes.multiplicacao() para multiplicar os valores
-operacoes.divisao() para dividir os valores
+from Learn_math import operations
+operations.sum() to sum values
+operations.subtraction() to subtract values
+operations.multiplication() to multiply values
+operations.division() to divide values
 ```
 
-## Autor
-Mateus Cesar de Araujo
+## Author
+Ricardo Augusto Nisiide
+
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Inspired by Mateus Cesar
