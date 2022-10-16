@@ -4,12 +4,12 @@ Description.
 This package will teach how basic math operations work. 
 It will show the sum, subtraction, multiplication and division of two numbers. 
 
-## Instalação
+## Installation
 
-Use o package manager [pip](https://pip.pypa.io/en/stable/) para instalar Pacote_Calculadora
+Use package manager [pip](https://pip.pypa.io/en/stable/) to install Learn Math
 
 ```bash
-pip install Learn_math
+pip install -i https://test.pypi.org/simple/ Learn-math
 ```
 
 ## Uso
